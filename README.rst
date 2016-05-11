@@ -1,7 +1,7 @@
 Web Analytics Unit (WAUnit)
 ----------------------------
 
-WAUnit is a testing framework developed by the folks at `Blast Analytics & Marketing <http://www.blastam.com/>`_ for Google Analytics (other platforms coming soon).
+WAUnit is a testing framework developed by `Joao Correia <https://twitter.com/joaocorreia>`_ of the `Blast Analytics & Marketing <http://www.blastam.com/>`_ team.  The current version is targeted for use with Google Analytics (other platforms coming soon).
 
 When you setup custom tracking for a website you have to validate if the hits are correct, HitInspect automates the verification of tracking specifications.
 
